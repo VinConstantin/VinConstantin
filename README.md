@@ -33,6 +33,7 @@ I love programming and everything tech related.
     <img alt="VScode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual+studio+code&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-gray?style=for-the-badge&logo=Tensorflow&logoColor=white" />
+    <img alt="Pypi" src="https://img.shields.io/badge/-PyPi-3775A9?style=for-the-badge&logo=pyPi&logoColor=white" />
 </P>
 
 ### Contact me:
