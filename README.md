@@ -2,8 +2,6 @@
 
 Hi there, I'm **Vincent Constantin**, a *Software Engineer student**.
 
-I'm currently looking for an internship for the winter (January 2021- April 2021)
-
 I love programming and everything tech related.
 
 ### Some informations about me:
