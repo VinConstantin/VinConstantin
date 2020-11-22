@@ -39,7 +39,7 @@ I love programming and everything tech related.
   <a href="https://www.linkedin.com/in/vincent-constantin-88241b154/" style="text-decoration: none">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/channels/@me/" style="text-decoration: none">
+  <a href="https://www.instagram.com/vincent_constantin/" style="text-decoration: none">
     <img alt="Discord" src="https://img.shields.io/badge/-Instagram-7289DA?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:vin.constantin@gmail.com" style="text-decoration: none">
