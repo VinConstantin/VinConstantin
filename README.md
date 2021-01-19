@@ -1,16 +1,16 @@
 ## Hey 👋
 
-Hi there, I'm **Vincent Constantin**, a *Software Engineer student**.
+Hi there, I'm **Vincent Constantin**, a *Software Engineer student*.
 
 I love programming and everything tech related.
 
 ### Some informations about me:
 
-- 👨🏽‍💻 I’m currently a Software Engineer Student at ÉTS
-- 🤔 My interests include everything related to the big data, algorithms, AI and much more!
-- 📷 I love photography and videography
-- 💬 Ask me about anything, I am happy to help
-- 📫 Please email me if you have any questions
+- 👨🏽‍💻 I’m currently a Software Engineer Student at ÉTS;
+- 🤔 My interests include everything related to the big data, algorithms, AI and much more!;
+- 📷 I love photography and videography;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email me if you have any questions;
 
 ### Languages and Tools:
 <p>
